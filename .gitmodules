@@ -1,0 +1,3 @@
+[submodule "docker-dropbox"]
+	path = docker-dropbox
+	url = https://github.com/janeczku/docker-dropbox.git
